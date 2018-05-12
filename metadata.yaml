@@ -1,0 +1,31 @@
+_repo: The-Psychological-Origin-and-the-Nature-of-Religion_39511
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leuba, James H. (James Henry)
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '34809'
+    url: http://www.gutenberg.org/2009/agents/34809
+description: ''
+gutenberg_issued: '2012-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Magic'
+- !lcsh 'Psychology, Religious'
+- !lcc 'BL'
+tableOfContents: The fundamental nature of religion -- Three types of behaviour differentiated
+  -- Origin of the ideas of ghosts, nature-beings, and gods -- Magic and religion
+  -- The original emotion of primitive religious life -- Concluding remarks on the
+  nature and the function of religion.
+title: The Psychological Origin and the Nature of Religion
+url: http://www.gutenberg.org/ebooks/39511
